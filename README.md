@@ -1,2 +1,5 @@
 # Estacionamento
- Sistema que gerencia as vagas disponíveis de um estacionamento.
+ Sistema que gerencia 20 vagas disponíveis de um estacionamento.
+
+ ## Tecnologias Utilizadas:
+ Java.
